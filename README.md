@@ -1,0 +1,1 @@
+the goal of this project was a very simple question which was can we use sign restricted var models to detect shocks and then time stamp those shocks and map a household survey data which is longitudnal and then see if consumer spending changes.
